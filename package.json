@@ -1,0 +1,10 @@
+{
+  "name": "institutional-intent-settlement-engine",
+  "version": "1.0.0",
+  "description": "2026 Intent-centric settlement and solver infrastructure",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "viem": "^2.12.0",
+    "ethers": "^6.12.0"
+  }
+}
