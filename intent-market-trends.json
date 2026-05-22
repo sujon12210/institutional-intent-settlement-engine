@@ -1,0 +1,7 @@
+{
+  "2026_forecast": {
+    "intent_dominance_pct": 65,
+    "primary_assets": ["USDC", "stETH", "Tokenized_T_Bills", "AI_Compute_Credits"],
+    "top_solving_chains": ["Base", "Arbitrum", "Solana", "Monad"]
+  }
+}
